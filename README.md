@@ -12,9 +12,11 @@
 
 projets : 
  - [Minecraft](Minecraft.md)
-code
-'''code'''
-'''
-d
-'''
-
+# Système
+## installation de base
+```bash
+sudo apt update
+sudo apt install -y htop lnav wget git
+```
+motd : ```sudo nano /etc/motd```
+https://patorjk.com/software/taag/#p=display&f=Graffiti&t=coucou
