@@ -1,10 +1,8 @@
 # n8n installation
 
 # Sommaire
- - [commandes système](#système)
+ - [installation système](#système)
 
-projets : 
- - [Minecraft](Minecraft.md)
 # Système
 ## installation de base
 suivre le lien d'installation 
