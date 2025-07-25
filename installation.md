@@ -13,7 +13,12 @@ sudo docker compose up -d
 cd /home/n8n/n8n
 sudo docker compose up -d
 ```
-### lister les docker en route
+lister
+```bash
+sudo docker container list
+```
+
+logs
 ```bash
 sudo docker container list
 ```
