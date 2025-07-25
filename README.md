@@ -4,4 +4,4 @@
  - [installation n8nsur debian](installation.md)
 
 ## template
-- [email](#instalation.md)
+- [email](Email_product_launch.json)
