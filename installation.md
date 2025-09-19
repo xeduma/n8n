@@ -21,6 +21,7 @@ sudo docker container list
 logs
 ```bash
 sudo docker compose logs NAME_INSTANCE
+docker logs -f n8n
 ```
 
 ## stop le projet docker
